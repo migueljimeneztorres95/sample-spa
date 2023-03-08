@@ -1,0 +1,13 @@
+.navbar-wrapper {
+  width: 100%;
+  position: absolute;
+  background-color:lightcoral;
+  padding-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-button {
+  margin-right: 40px;
+}
